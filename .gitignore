@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Lokala hemligheter — checka aldrig in dessa
+.env
+*.local
